@@ -1,0 +1,7 @@
+{ "description": "touch files on the target system",
+  "input_method": "stdin",
+  "supports_noop": true,
+  "parameters": {
+    "files": {
+      "description": "An array of files to touch",
+      "type": "Array[String]" } } }

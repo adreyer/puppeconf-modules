@@ -1,0 +1,13 @@
+{
+  "name": "puppetlabs-example_tasks",
+  "version": "1.0.0",
+  "author": "puppetlabs",
+  "summary": "Simple Example tasks",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [],
+  "data_provider": null
+}
+

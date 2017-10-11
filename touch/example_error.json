@@ -1,0 +1,3 @@
+{ "msg": "Failed to update file: '/tmp/foo'",
+  "kind": "touch/file-error",
+  "details": { "file": "/tmp/foo" } }
